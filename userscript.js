@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GitHub search on Google
 // @version      1.0
-// @description  Adds a button to search StackOverflow posts with Google
+// @description  Adds a button to your Google searches to show only GitHub results
 // @author       Ryan Buening
 // @namespace    https://ryanbuening.com
 // @include      http*://www.google.*/search*
